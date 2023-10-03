@@ -29,9 +29,9 @@ QQ临时会话 QQ快捷跳转 历史上的今天 藏头诗生成 支付宝到账
 - 纯粹：轻量体积，无推送、广告、后台唤醒，不打扰用户。简明纯粹的主页与分类，无多余信息干扰，让用户专注于自己关心的事物。
 - 美好：注重设计与交互，坚守简明纯粹的实用美学，遵循Google的Material Design潮流。追求细节完美，关怀用户的体验，让用户一见钟情。
 ##  :helicopter: 应用预览
-![首页](imgScreenshot_20230622_000737_com.example.uyclub.jpg#pic_center)
-![应用](imgScreenshot_20230622_000746_com.example.uyclub.jpg#pic_center)
-![分类](imgScreenshot_20230622_002851_com.example.uyclub.jpg#pic_center)
-![功能](imgScreenshot_20230622_000753_com.example.uyclub.jpg#pic_center)
-![娱乐](imgScreenshot_20230622_000802_com.example.uyclub.jpg#pic_center)
-![关于](imgScreenshot_20230622_000813_com.example.uyclub.jpg#pic_center)
+![首页](Demo/Screenshot_20230622_000737_com.example.uyclub.jpg#pic_center)
+![应用](Demo/Screenshot_20230622_000746_com.example.uyclub.jpg#pic_center)
+![分类](Demo/Screenshot_20230622_002851_com.example.uyclub.jpg#pic_center)
+![功能](Demo/Screenshot_20230622_000753_com.example.uyclub.jpg#pic_center)
+![娱乐](Demo/Screenshot_20230622_000802_com.example.uyclub.jpg#pic_center)
+![关于](Demo/Screenshot_20230622_000813_com.example.uyclub.jpg#pic_center)
